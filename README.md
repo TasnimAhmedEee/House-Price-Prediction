@@ -19,7 +19,7 @@
 
 Kaggle challenge of House Prices: Advanced Regression Techniques is solved using ANN models with only low-level APIs of TensorFlow. The predicted test-result scored 0.1190 in Kaggle leaderboard. The current GitHub version is an older one. It will score 0.1234 at kaggle currently. The updated one will be uploaded soon.
 
-Link for the Kaggle competition: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+Link for the Kaggle competition: https://www.kaggle.com/c/house-prices-advanced-regression-techniques <br>
 Datasets: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
 Python Dependencies:
