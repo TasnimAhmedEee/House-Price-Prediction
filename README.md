@@ -1,5 +1,5 @@
 # House Price Prediction
-
+![Cherry Blossom](https://github.com/TasnimAhmedEee/House-Price-Prediction/blob/master/housing2.jpg)
 ## Introduction
 'House Prices: Advanced Regression Techniques' is one of the most engaging Kaggle challenges that helps competitors developing their skills in solving problems using Machine-Learning algorithms. This challenge is all about predicting the sale-price of a house in Ames, Iowa based on the provided information about many key-factors that may have influence on the price of the houses. Therefore, it is a regression problem and the task here is to minimize the error of prediction. Several Machine-Learning algorithms including a DNN(Deep Neural Network) model has been developed and implemented in this kernel using Scikit-learn and low-level APIs of Tensorflow (usage of high-level APIs such as: Contrib or estimator has been avoided to gather in-depth knowledge in develping model-architecture). Stacking and ensembling of many algorithms have also been implemented to achieve better accuracy. A lot of emphasis has been given to feature-engineering. Therefore this section is the largest part of the kernel. The key steps of the kernel are listed below:
 
